@@ -2,7 +2,7 @@
 
 ## CRYPTO AI CHATBOT
 
-A simple Python chatbot that answers cryptocurrency-related questions using static data, natural language detection, and live price info from CoinGecko API.  
+A simple Python chatbot that answers cryptocurrency-related questions using static data, natural language detection, and live price info from the CoinGecko API.  
 Includes logging of user interactions.
 
 ## Features
@@ -34,7 +34,7 @@ python crypto_ai.py
 
 ### Interact via the command line. Type
 
-1. Queries in natural language (e.g., **). Sample Questions You Can Ask:
+1. Queries in natural language. Sample Questions You Can Ask:
 
 - “Which crypto is most sustainable?”
 - “What’s the energy usage of Bitcoin?”
@@ -52,7 +52,7 @@ python crypto_ai.py
 
 ## ⚠️ Disclaimer
 
-Crypto AI chatbot is for educational use only. Always do your own research (DYOR) before investing in any cryptocurrency.
+The Crypto AI chatbot is for educational purposes only. Always do your research (DYOR) before investing in any cryptocurrency.
 
 ## 📝 License
 
