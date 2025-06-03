@@ -17,7 +17,7 @@ Includes logging of user interactions.
 | File                                      | Description                             |
 | ----------------------------------------- | --------------------------------------- |
 | `crypto_ai.py`                            | The main chatbot script                 |
-| `chatbot_demo.png`                        | Screenshot or text log of a sample chat |
+| `chatbot_demo.png`                        | Screenshot of a sample chat             |
 | `README.md`                               | This file                               |
 | `chat_log.txt`                            | Stores user-bot chat history            |
 
