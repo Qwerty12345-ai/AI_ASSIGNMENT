@@ -1,18 +1,16 @@
 # AI_ASSIGNMENT
 
-## CRYPTO AI CHATBOT
+## 👾 CRYPTO AI CHATBOT
 
-A simple Python chatbot that answers cryptocurrency-related questions using static data, natural language detection, and live price info from the CoinGecko API.  
-Includes logging of user interactions.
+A simple Python chatbot that answers cryptocurrency-related questions using static data, natural language detection, and live price info from the CoinGecko API. Includes logging of user interactions.
 
-## Features
-
+## 📎  Features  
 - Static crypto info for Bitcoin, Ethereum, and Cardano  
 - Natural language question handling (trends, sustainability, live prices)  
 - Fetches real-time prices via CoinGecko API  
 - Logs all user interactions to `chat_log.txt`  
 
-## Files in this Repo
+##  🔖 Files in this Repo
 
 | File                                      | Description                             |
 | ----------------------------------------- | --------------------------------------- |
@@ -21,7 +19,7 @@ Includes logging of user interactions.
 | `README.md`                               | This file                               |
 | `chat_log.txt`                            | Stores user-bot chat history            |
 
-## Usage
+## 🔋Usage
 
 1. Clone or download this repo
 2. Open `crypto_ai.py` in a terminal or IDE
@@ -32,20 +30,20 @@ Includes logging of user interactions.
 python crypto_ai.py
 ```
 
-### Interact via the command line. Type
+### 📲 Interact via the command line. 
 
-1. Queries in natural language. Sample Questions You Can Ask:
+1. Type queries in natural language. Some of the sample questions you can ask include:
 
-- “Which crypto is most sustainable?”
-- “What’s the energy usage of Bitcoin?”
-- “Tell me the market cap of Ethereum.”
-- “Is Cardano trending up?”
-- "Which crypto is trending?"
+      - “Which crypto is most sustainable?”
+      - “What’s the energy usage of Bitcoin?”
+      - “Tell me the market cap of Ethereum.”
+      - “Is Cardano trending up?”
+      - "Which crypto is trending?"
 
 2. `"info"` to look up specific crypto data  
 3. `"exit"` to quit
 
-## Requirements
+## 📝 Requirements
 
 - Python 3.x  
 - `requests` library (`pip install requests`)
