@@ -1,6 +1,4 @@
-# AI_ASSIGNMENT
-
-## 👾 CRYPTO AI CHATBOT
+#  👾 CRYPTO AI CHATBOT
 
 A simple Python chatbot that answers cryptocurrency-related questions using static data, natural language detection, and live price info from the CoinGecko API. Includes logging of user interactions.
 
