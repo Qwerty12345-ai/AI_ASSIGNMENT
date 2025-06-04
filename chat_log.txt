@@ -1,0 +1,48 @@
+[2025-06-03 22:48:06]
+User: Bitcoin - price trend
+Bot: ❌ Invalid info type.
+
+[2025-06-03 22:49:19]
+User: price_trend
+Bot: 🤔 Try asking about trends, sustainability, or live prices!
+
+[2025-06-03 22:49:33]
+User: what are some of the trends
+Bot: 🤔 Try asking about trends, sustainability, or live prices!
+
+[2025-06-03 22:49:38]
+User: trends
+Bot: 🤔 Try asking about trends, sustainability, or live prices!
+
+[2025-06-03 22:50:49]
+User: market_cap
+Bot: 🤔 Try asking about trends, sustainability, or live prices!
+
+[2025-06-03 22:51:08]
+User: which crypto is trending?
+Bot: 📈 These coins are trending up: Bitcoin, Cardano
+
+[2025-06-03 22:51:46]
+User: what are some of the live prices?
+Bot: Please specify which coin you'd like the live price for.
+
+[2025-06-03 22:52:09]
+User: what are some of the live prices for bitcoin
+Bot: 💰 Live price of Bitcoin: $106336
+
+[2025-06-03 23:12:01]
+User: which crypto is trending
+Bot: 📈 These coins are trending up: Bitcoin, Cardano
+
+[2025-06-03 23:12:35]
+User: what are some of the live prices
+Bot: Please specify which coin you'd like the live price for.
+
+[2025-06-03 23:28:21]
+User: which crypto is more sustainable
+Bot: 🌱 Cardano is the most sustainable option!
+
+[2025-06-03 23:28:38]
+User: why
+Bot: 🤔 Try asking about trends, sustainability, or live prices!
+
